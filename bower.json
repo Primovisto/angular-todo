@@ -1,0 +1,25 @@
+{
+  "name": "angular-todo",
+  "description": "Angular",
+  "main": "index.js",
+  "authors": [
+    "Ed"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular"
+  ],
+  "homepage": "https://github.com/Primovisto/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4"
+  }
+}
